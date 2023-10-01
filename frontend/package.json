@@ -103,7 +103,7 @@
 		"diff": "^5.1.0",
 		"esm-env": "^1.0.0",
 		"fast-equals": "^5.0.1",
-		"graphql": "^16.7.1",
+		"graphql": "^16.8.1",
 		"highlight.js": "^11.8.0",
 		"lodash": "^4.17.21",
 		"lucide-svelte": "^0.277.0",
